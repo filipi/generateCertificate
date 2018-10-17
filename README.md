@@ -7,8 +7,8 @@ A simple bash script to generate a course or event certificates based on a SVG t
 
 ## Example
 
-Suposing the file input.txt contains the names of the participants os a congress.
-We want to generate certificates saying they were listneres at the event
+Assuming the file input.txt contains the names of the participants of an event,
+we can generate certificates seting they were listneres of the event
 
 ./generateCertificate.sh input.txt listener
 
